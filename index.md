@@ -1,37 +1,29 @@
-## Welcome to GitHub Pages
+## Welcome to Learning Journal
 
-You can use the [editor on GitHub](https://github.com/sohadQtaitat/learning-journal/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+You can use the [Mind Sit book](https://mindsetonline.com/thebook/buythebook/index.html) to maintain and preview the characteristics about mind set (fixed,Growth).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Mind Set
 
-### Markdown
+A mindset can  seen as incident of a person's world view or philosophy of life.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+A mindset may be so firmly established that it creates a powerful incentive within these people or groups to continue to adopt or accept  behaviors, choices, or tools.
+ 
+** No Pain = No Gain ; I'm not ready YET but some day I will , no bady born with complet mind, I'm Strong I;ll not for getup ;so I will read ,try , be patient finally i achive my goal succssesfuly  :) **
+ 
+ **Types of Mindsets**
+ 
+ 
+ 1.The Social Mindset
+ 1.The Growth Mindset
+ 1.The Fear Mindset
+ 1.The Lazy Mindset
+ 1.The Envy Mindset
+ 1.The Business Mindset
+ 1.The Dreamer Mindset
+ 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+![img](https://images.app.goo.gl/CPwFky37Y9RgJuww5)
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sohadQtaitat/learning-journal/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
