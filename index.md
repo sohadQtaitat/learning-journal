@@ -6,7 +6,7 @@ You can use the [Mind Sit book](https://mindsetonline.com/thebook/buythebook/ind
 
 ### Mind Set
 
-*A mindset can  seen as incident of a person's world view or philosophy of life.
+~~A mindset can  seen as incident of a person's world view or philosophy of life.
 
 >A mindset may be so firmly established that it creates a powerful incentive within these people or groups to continue to adopt or accept  behaviors, choices, or tools.
  
