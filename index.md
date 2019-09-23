@@ -4,7 +4,7 @@ You can use the [Mind Sit book](https://mindsetonline.com/thebook/buythebook/ind
 
 ### Mind Set
 
-A mindset can  seen as incident of a person's world view or philosophy of life.
+*A mindset can  seen as incident of a person's world view or philosophy of life.*
 
 A mindset may be so firmly established that it creates a powerful incentive within these people or groups to continue to adopt or accept  behaviors, choices, or tools.
  
@@ -13,13 +13,13 @@ A mindset may be so firmly established that it creates a powerful incentive with
  **Types of Mindsets**
  
  
- 1.The Social Mindset
- 1.The Growth Mindset
- 1.The Fear Mindset
- 1.The Lazy Mindset
- 1.The Envy Mindset
- 1.The Business Mindset
- 1.The Dreamer Mindset
+ * The Social Mindset
+ * The Growth Mindset
+ * The Fear Mindset
+ * The Lazy Mindset
+ * The Envy Mindset
+ * The Business Mindset
+ * The Dreamer Mindset
  
 
 
