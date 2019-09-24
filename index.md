@@ -31,7 +31,7 @@ You can use the [Mind Sit book](https://mindsetonline.com/thebook/buythebook/ind
  
 
 
-![img](https://images.app.goo.gl/CPwFky37Y9RgJuww5)
+![img](https://www.talenttalks.net/wp-content/uploads/2017/02/Screen-Shot-2015-11-27-at-11.37.21.png)
 
 
 
